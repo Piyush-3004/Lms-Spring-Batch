@@ -1,0 +1,3 @@
+cicId,fullName,email,mobileNum,"hiredDate	","degree	","aggrPer	",city,"	state","	prefferedJobLocation","	status	","passedOutYear	",creatorUser,"	candidateStatus"
+"100	","Abhishek Kadam	"," abhi@gmail.com	",7896584251,"	24-08-2022","	BeCivil","	84	","Pune	","Maharashtra	",Pune,"	Mapped	","2021	","Piyush	",Active
+101,vinayak,vinayak@gmail.com,7788445872,24-08-2022,BeComp,80,Mumbai,"Maharashtra	",Mumbai,inProgress,2020,"Piyush	",Active
